@@ -1,4 +1,10 @@
-## batchcoding
-# Bruh i am just a batch coding.
+## Hello! welcome to FFF-Net/batchcoding
 
-- i still learning!
+My creation will get out here :)
+
+### Menu
+[Back](https://github.com/FFF-Net/Minecraft-Database) 
+
+[Home](https://github.com/FFF-Net)
+
+
